@@ -4,3 +4,5 @@
 
 twitter : https://x.com/doudemo_nandemo
 
+ブログ
+https://snowyowls-organization.gitbook.io/snowyowl644-hacklog
